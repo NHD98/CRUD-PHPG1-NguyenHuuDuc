@@ -1,2 +1,5 @@
-# PHPG12019
-Dự án PHP dành cho nhóm 1 năm học 2019
+# PHPG1-CRUD-Learning-History-NguyenHuuDuc
+
+Em nộp thầy bài tập môn PHP: CRUD.
+Họ và tên: Nguyễn Hữu Đức.
+MSV: 16T1021034
